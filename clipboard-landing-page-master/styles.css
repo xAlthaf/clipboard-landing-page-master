@@ -1,0 +1,350 @@
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.first-background-image {
+  position: absolute;
+}
+.first-background-image2 {
+  width: 110%;
+}
+.first-logo {
+  position: relative;
+  margin-left: 730px;
+}
+.first-logo1 {
+  margin-top: 150px;
+}
+.history {
+  color: hsl(210, 10%, 33%);
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  margin: 40px;
+}
+.clipboard {
+  color: hsl(201, 11%, 66%);
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+  line-height: 31px;
+}
+.ios {
+  height: 53px;
+  width: 15%;
+  margin-left: 550px;
+  margin-top: 40px;
+  border-radius: 20px;
+  border-color: hsl(171, 66%, 44%);
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  background-color: hsl(171, 66%, 44%);
+  cursor: pointer;
+}
+.mac {
+  height: 53px;
+  width: 15%;
+  margin-left: 30px;
+  border-radius: 20px;
+  border-color: hsl(233, 100%, 69%);
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: hsl(233, 100%, 69%);
+  cursor: pointer;
+}
+.keep-track {
+  color: hsl(210, 10%, 33%);
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 170px;
+}
+.clipboard1 {
+  color: hsl(201, 11%, 66%);
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+  line-height: 31px;
+}
+.computer-image {
+  margin-top: 50px;
+  display: flex;
+}
+.floating {
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.quick {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+}
+.easily {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 30px;
+}
+.icloud {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.instantly {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 30px;
+}
+.compelete {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.retrieve {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 32px;
+}
+.access {
+  text-align: center;
+  color: hsl(210, 10%, 33%);
+  font-size: 37px;
+  font-weight: 600;
+  margin-top: 150px;
+}
+.whether {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 35px;
+  text-align: center;
+}
+.device-image {
+  margin-left: 300px;
+  margin-top: 80px;
+}
+.supercharge {
+  text-align: center;
+  color: hsl(210, 10%, 33%);
+  font-size: 37px;
+  font-weight: 600;
+  margin-top: 70px;
+}
+.boost {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.blacklist-image1 {
+  width: 60px;
+  height: 60px;
+}
+.icone-text {
+  width: 60px;
+  height: 60px;
+  margin-left: 450px;
+}
+.icon-preview {
+  width: 80px;
+  height: 60px;
+  margin-left: 350px;
+}
+
+.create {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 40px;
+  margin-left: 170px;
+}
+.plain {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+  margin-left: 290px;
+  margin-top: 40px;
+}
+.sneak {
+  color: hsl(210, 10%, 33%);
+  font-size: 28px;
+  font-weight: 600;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.ensure {
+  color: hsl(201, 11%, 66%);
+  font-size: 16px;
+  margin-top: 30px;
+  margin-left: 100px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.remove {
+  color: hsl(201, 11%, 66%);
+  font-size: 16px;
+  margin-top: 30px;
+  margin-left: 230px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.quick1 {
+  color: hsl(201, 11%, 66%);
+  font-size: 16px;
+  margin-top: 30px;
+  margin-left: 100px;
+  line-height: 28px;
+  text-align: center;
+}
+.floating1 {
+  margin-left: 250px;
+  margin-top: 100px;
+}
+.container {
+  display: flex;
+}
+.nav {
+  display: flex;
+}
+.social {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+.clipboard2 {
+  margin-top: 150px;
+  color: hsl(210, 10%, 33%);
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+}
+.Available2 {
+  text-align: center;
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  line-height: 30px;
+}
+.ios2 {
+  height: 60px;
+  width: 18%;
+  margin-left: 540px;
+  border-radius: 25px;
+  border-color: hsl(171, 66%, 44%);
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: hsl(171, 66%, 44%);
+  cursor: pointer;
+  margin-top: 50px;
+}
+.mac2 {
+  height: 60px;
+  width: 18%;
+  margin-left: 30px;
+  border-radius: 25px;
+  border-color: hsl(233, 100%, 69%);
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: hsl(233, 100%, 69%);
+  cursor: pointer;
+}
+.footer {
+  background-color: hsla(202, 11%, 66%, 0.068);
+  margin-top: 130px;
+  height: 150px;
+}
+.first-logo3 {
+  display: flex;
+  margin-left: 200px;
+}
+.first-logo4 {
+  width: 60px;
+  height: 60px;
+  margin-top: 30px;
+}
+span {
+  margin-left: 120px;
+  margin-top: 50px;
+  font-size: 18px;
+  color: hsla(212, 10%, 33%, 0.829);
+}
+.contactus {
+  /* margin-left: 370px; */
+}
+
+.althaf {
+  display: flex;
+  line-height: none;
+}
+nav {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.monitor {
+  margin-top: 30px;
+  line-height: 10px;
+}
+/* @media (max-width: 768px) {
+  .first-background-image2 {
+    width: 100%;
+  }
+
+  .first-logo {
+    margin: 0;
+  }
+
+  .first-logo1 {
+    margin: 0;
+  }
+
+  /* Adjust other styles as needed for smaller screens */
+
+/* Media query for screens smaller than 480px */
+@media (max-width: 768px) {
+  .first-background-image2 {
+    width: 100%;
+  }
+
+  .first-logo {
+    margin-left: 160px;
+  }
+
+  .first-logo1 {
+    margin: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .history {
+    font-size: 30px;
+  }
+
+  .clipboard {
+    font-size: 16px;
+  }
+
+  .ios,
+  .mac,
+  .ios2,
+  .mac2 {
+    width: 150%;
+    margin: 10px 0;
+  }
+
+  .first-logo3 {
+    display: block;
+    text-align: center;
+  }
+}
